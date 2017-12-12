@@ -1,0 +1,7 @@
+#
+#Fri Mar 31 16:48:42 GMT+08:00 2017
+apkVersion=
+timerRulers=
+defaultAdData=[{"id": "","src": "mzj.jpg","fileType": "png","publish": "20171030101112","expire": "201711011235959","duration": "5","videoPlayNum": "","forUser": "0","status": "1",defaultAd:"1"}]
+
+adData=

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\xycProject\\trunk\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mzj.jpg",
+        "source": "E:\\xycProject\\trunk\\res\\drawable-hdpi\\mzj.jpg"
+    },
+    {
+        "merged": "E:\\xycProject\\trunk\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wheel.gif",
+        "source": "E:\\xycProject\\trunk\\res\\drawable-hdpi\\wheel.gif"
+    },
+    {
+        "merged": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mzj.jpg",
+        "source": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\res\\drawable-hdpi\\mzj.jpg"
+    },
+    {
+        "merged": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wheel.gif",
+        "source": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\res\\drawable-hdpi\\wheel.gif"
+    }
+]

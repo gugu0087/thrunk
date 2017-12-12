@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\gson-2.6.1_dee22b06d34eee549ef02819e5d70af605e6faad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\android-support-v4_8f303320712fe3463da1ec467e7fe8e37bc82490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\android-gif-drawable.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab78ed461deab5206c4cac6bbcf60e6d963cfd85">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\android-gif-drawable_90fbda2bd38787af028bc38d93815c5ead495c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\okhttp-2.7.5_230f791559cf3ed1b04574ef436a219eb44017d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\log4j-1.2.17.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5af35056b4d257e4b64b9e8069c0746e8b08629f">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\log4j-1.2.17_a47031fefdbae0e460d895610296f3f66ca904e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee7d9bc1ce7f847f6de8d089c866831effe8d415">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\core-3.0.0_b166d783d1fddcc1d1632ffe8e58a7828cbe1416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\android-logging-log4j-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bee823e6955d3a5806700026f838ebbca907ac7a">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\android-logging-log4j-1.0.3_148be77d30c7b3bca1b0634ab736cc8da66003d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\okio-1.11.0_28035b4dd88ee06614bdfc1770f88599d1f0e7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\mzjworkSpace\mzj2\Android4\trunk\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26263b52a31f91da12588b836963f2ba5284b72a">
+        <dex dex="E:\mzjworkSpace\mzj2\Android4\trunk\build\intermediates\pre-dexed\debug\BaiduLBS_Android_a8bbe9abefd04a4f187254cfe3e120604e624c4b.jar" />
+    </item>
+
+</items>

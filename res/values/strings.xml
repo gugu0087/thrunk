@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">美至简</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+   <string name="scan">微信扫码关注</string>
+   <string name="weight">体重数据自己知</string>
+   
+   <string name="measure">正在测量中</string>
+   <string name="balance">请保持平衡</string>
+   
+   <string name="authCode">输入验证码</string>
+   <string name="acceptWeightData">免费接收体重</string>
+   
+    <string name="networkAnomaly">网络异常</string>
+    <string name="portAnomaly">端口断开</string>
+   <string name="fixNetwork">我们将尽快修复</string>
+
+
+    <string name="welcome">欢迎您</string>
+    <string name="mzjwelcome">美至简\n欢迎您</string>
+    <string name="hint_one">快踩我</string>
+    <string name="hint_two">免费称体重</string>
+    <string name="text_scan_standed">请用微信</string>
+    <string name="text_weight_standed">上方二维码</string>
+    <string name="text_deng_standed">请用微信扫码\n查看您的体重</string>
+    <string name="text_title_later">请稍后…</string>
+    <string name="text_title_ceter">体重二维\n码生成中</string>
+
+
+    <declare-styleable name="GifTextureView"><attr format="reference|string" name="gifSource"/><attr format="boolean" name="isOpaque"/></declare-styleable>
+   <declare-styleable name="GifView"><attr format="boolean" name="freezesAnimation"/></declare-styleable>
+
+</resources>

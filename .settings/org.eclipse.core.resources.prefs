@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/mzj/broadcast/TimeSwitchBroadcastReceiver.java=GBK
+encoding//src/com/mzj/crashHandler/CrashApplication.java=UTF-8
+encoding//src/com/mzj/crashHandler/CrashHandler.java=UTF-8
+encoding//src/com/mzj/database/InfoDao.java=UTF-8
+encoding//src/com/mzj/database/MySqliteOpenHelper.java=UTF-8
+encoding//src/com/mzj/service/LocationService.java=UTF-8
+encoding//src/com/mzj/util/FileUtils.java=UTF-8
+encoding//src/com/mzj/util/MD5Util.java=UTF-8
+encoding//src/com/mzj/util/MzjLog.java=UTF-8
+encoding//src/com/mzj/util/NetworkUtil.java=UTF-8

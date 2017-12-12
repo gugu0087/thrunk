@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\xycProject\\trunk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\xycProject\\trunk\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\xycProject\\trunk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_desk.xml",
+        "source": "E:\\xycProject\\trunk\\res\\layout\\activity_desk.xml"
+    },
+    {
+        "merged": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\build\\intermediates\\res\\merged\\debug\\layout\\activity_desk.xml",
+        "source": "E:\\mzjworkSpace\\mzj2\\Android4\\trunk\\res\\layout\\activity_desk.xml"
+    }
+]
